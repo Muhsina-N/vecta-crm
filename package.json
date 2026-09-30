@@ -1,0 +1,7 @@
+{
+  "name": "vecta-crm",
+  "private": true,
+  "scripts": {
+    "build": "cd client && npm install && npm run build && npx cap sync android"
+  }
+}
